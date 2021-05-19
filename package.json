@@ -6,9 +6,9 @@
     "zlw-pages",
     "zce"
   ],
-  "homepage": "https://gitee.com/zhang-lingwei-g/zlw-pages#readme",
+  "homepage": "https://github.com/zhanglingwei123/zlw-pages#readme",
   "bugs": {
-    "url": "https://gitee.com/zhang-lingwei-g/zlw-pages/issues"
+    "url": "https://github.com/zhanglingwei123/zlw-pages/issues"
   },
   "license": "MIT",
   "author": "zhanglingwei",
@@ -23,7 +23,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://gitee.com/zhang-lingwei-g/zlw-pages"
+    "url": "git+https://github.com/zhanglingwei123/zlw-pages"
   },
   "scripts": {
     "lint": "standard --fix"
